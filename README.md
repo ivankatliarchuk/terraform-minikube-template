@@ -14,8 +14,7 @@ Terraform with Minikube project template
 <!-- START makefile-doc -->
 ```
 $ make help 
-t                              Run terraform
-cicd                           Proxy CICD
+infra                          Run terraform
 start                          Deploy Minikube Kubernetes Cluster
 stop                           Stop Minikube Kubernetes Cluster
 hooks                          Commit hooks setup
